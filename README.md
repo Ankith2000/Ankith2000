@@ -40,7 +40,7 @@
 
 ---
 
-### 📫 Socials
+### 📫 Social:
 <p>
-  <a href="https://www.linkedin.com/in/ankith-bhat-65144b18b/"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge"></a>
+   <a href="https://www.linkedin.com/in/ankith-bhat-65144b18b/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
 </p>
