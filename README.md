@@ -40,7 +40,7 @@
 
 ---
 
-### 📫 Connect with me:
+### 📫 Socials
 <p>
   <a href="https://www.linkedin.com/in/ankith-bhat-65144b18b/"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge"></a>
 </p>
