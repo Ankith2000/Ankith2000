@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋, Ankith here </h1>
 
 <p align="center">
-  🚀 I'm a DevOps | Cloud Engineer
+  Check out my projects on Repo Section :)
 </p>
 
 ---
